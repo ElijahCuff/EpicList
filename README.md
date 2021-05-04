@@ -23,7 +23,7 @@ This Folder contains each alphabetical letter that was encountered after "a" was
  
   
 ### TO DO,   
-> Hash Mapping the EpicList is my next task, hopefu smashing out over 120 Million hashes for searching.  
+> Hash Mapping the EpicList is my next task, hopefully smashing out over 120 Million hashes for searching.  
 
 
   
