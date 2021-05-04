@@ -25,8 +25,13 @@ This Folder contains each alphabetical letter that was encountered after "a" was
   
 ### Accessing The List    
 The most common way to access the list is using GitHub RAW file storage.  
-`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/alphabetical_split/a.txt`
-`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/numerical.txt`
+Alphabetical,    
+`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/alphabetical_split/a.txt`     
+   
+Numerical,   
+`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/numerical.txt`    
+  
+Symbolic,   
 `https://media.githubusercontent.com/media/WokeWorld/EpicList/main/symbolic.txt`
 
    
