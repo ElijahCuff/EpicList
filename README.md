@@ -1,7 +1,7 @@
 # EpicList
 The password list of legends   
    
-> Extensive Password List Collection's, Joined - Sorted and Removed Duplicates from over 15 Cyber Security Password Lists and Database Breaches.
+> Extensive Password List Collection's, Joined - Sorted and Cleaned from Duplicates - over 15 Cyber Security Password Lists and Database Breaches.
  
 Including Lists from the "SecList" and many others.   
 
