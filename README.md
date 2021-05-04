@@ -21,9 +21,19 @@ This file contains all passwords from "0" up until "a" was encountered in the en
 #### Alphabetical-Split   
 This Folder contains each alphabetical letter that was encountered after "a" was encountered in the entire sorted and unique list.   
  
+     
   
+### Accessing The List    
+The most common way to access the list is using GitHub RAW file storage.  
+`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/alphabetical_split/a.txt`
+`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/numerical.txt`
+`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/symbolic.txt`
+
+   
+
 ### TO DO,   
 > Hash Mapping the EpicList is my next task, hopefully smashing out over 120 Million hashes for searching.  
 
 
+  
   
