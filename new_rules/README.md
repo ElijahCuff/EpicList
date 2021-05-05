@@ -6,7 +6,7 @@
     
 The most common password expectations can help reduce the EpicList by removing any password that doesn't adhere to modern standards of security.  
     
-By checking each password for common expectations of,
+By checking each password for common expectations of,    
 • Capital Letter Characters    
 • Numerical Characters     
 • Symbolic Characters   
