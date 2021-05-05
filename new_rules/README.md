@@ -18,4 +18,4 @@ Without excluding passwords that do not contain symbols - the list is still redu
 This tells me that 60% to 95% of most common password lists available today are actually useless in modern security implementations like for example on Facebook, requiring Capitals + Digits + Punctuation nowadays. 
  
 #### P.S   
-When a password was encountered that entirely consisted of lower case characters, the password had the first letter replaced with a capital letter and then it was checked against the rules again before being added to the final file ( my attempt at reversing DE-Capitilised password lists ).
+When a password was encountered that entirely consisted of lower case characters, the password had the first letter capitalised and then it was checked against the rules again before being added to the final file ( my attempt at reversing DE-Capitilised password lists ).
