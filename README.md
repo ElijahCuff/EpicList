@@ -29,15 +29,10 @@ This project was a test to see how effective a password list would be at attacki
      
   
 ### Accessing The List    
-The most common way to access the list is using GitHub RAW file storage.  
-Alphabetical,    
-`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/alphabetical_split/a.txt`     
-   
-Numerical,   
-`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/numerical.txt`    
+The most common way to access the list is using GitHub LFS ( Large File Storage ).    
+• git lfs pull https://github.com/WokeWorld/EpicList    
   
-Symbolic,   
-`https://media.githubusercontent.com/media/WokeWorld/EpicList/main/symbolic.txt`
+The RAW File links are down for some reason.
 
    
 
