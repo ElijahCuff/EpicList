@@ -40,7 +40,11 @@ This project was a test to see how effective a password list would be at attacki
 The most common way to access the list is using GitHub LFS ( Large File Storage ).    
 • git lfs pull https://github.com/WokeWorld/EpicList    
   
-The RAW File links are down for some reason, i think GitHub didn't appreciate my security research efforts when they seem to allow both the "SecList" and "CrackStstion" list online.
+The RAW File links are down for some reason, i think GitHub didn't appreciate my security research efforts when they seem to allow both the "SecList" and "CrackStation" lists.   
+ 
+To download the Modern.txt list containing the most modern requirements for passwords, you can either use `git lfs pull`  or access the MediaFire dump for users that do not have Git LFS installed but would still like to research the final reduction list.    
+ https://www.mediafire.com/file/1bd994bz4w19ra3/modern.txt/file
+
 
    
 
