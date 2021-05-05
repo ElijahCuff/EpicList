@@ -12,8 +12,10 @@ By checking each password for common expectations of,
 • Symbolic Characters   
 • 6 Characters or More    
    
-We have reduced the entire list by 95.9% (capitals+digits+symbols) , without excluding passwords that do not contain symbols - the list is still reduced by 62.8 %
-This tells me that 60% to 95% of most password lists today are actually useless in modern security implementations, contains millions of 2 character passwords for example. 
+We have reduced the entire list by 95.9% (capitals+digits+symbols)    
+Without excluding passwords that do not contain symbols - the list is still reduced by 62.8 %.    
+
+This tells me that 60% to 95% of most common password lists available today are actually useless in modern security implementations like for example on Facebook, requiring Capitals + Digits + Punctuation nowadays. 
  
 #### P.S   
 When a password was encountered that entirely consisted of lower case characters, the password had the first letter replaced with a capital letter and then it was checked against the rules again before being added to the final file ( my attempt at reversing DE-Capitilised password lists ).
