@@ -2,7 +2,7 @@
 #### Most password lists on the internet have been carefully crafted to remove capital letters so as they're bot effective at attacking a network.    
     
 #### Common Password Schemes     
-> Often, a website will kot accept a weak password, they usually demand a specific password scheme is found in your desired password - for example, most websites will not accept the password "apples" but will accept "Apples123" or "Apples123$" 
+> Often, a website will not accept a weak password, they usually demand a specific password scheme is found in your desired password - for example, most websites will not accept the password "apples" but will accept "Apples123" or "Apples123$" 
     
 The most common password expectations can help reduce the EpicList by removing any password that doesn't adhere to modern standards of security.  
     
