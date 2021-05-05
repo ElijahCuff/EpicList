@@ -21,6 +21,8 @@ This file contains all passwords from "0" up until "a" was encountered in the en
 #### Alphabetical-Split   
 This Folder contains each alphabetical letter that was encountered after "a" was encountered in the entire sorted and unique list.   
  
+#### new_rules    
+This project was a test to see how effective a password list would be at attacking today's minimum password requirements - witj amazing reductions on the original combination of lists - down to a little under 5% of the original size of the files.
      
   
 ### Accessing The List    
