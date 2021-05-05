@@ -10,7 +10,10 @@ Including Lists from the "SecList" and many others.
   
 ### Files Information    
 Total Size = 1,378,184,079 bytes    
-Total Unique Passwords = 120,770,442
+Total Unique Passwords = 120,770,442   
+
+#### Alphabetical  
+This file contains all passwords from "a" up until the end of the list was encountered in the entire unique list.
 
 #### Symbolic     
 The symbolic file is everything that came before "0" after sorting the entire unique contents ( over 2 hours computing time ).
