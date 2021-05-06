@@ -1,8 +1,8 @@
 # EpicList
 #### The password list of legends    
-This project is an ongoing research into the effectiveness of password lists found on the internet, combining the most popular lists like the "COW.tx" and crack stations "Human Only.txt" lists amoung many others.
+This project is an ongoing research into the effectiveness of password lists found online, combining the most popular lists like the "COW.txt", "Cracked.txt" and crack stations "Human_only.txt" lists among around 13 others.
     
-Sorting the list took over 2 days with failed attempts on over 3 machines before attempting Kali Linux with success - extracting duplicate entries took over 12 hours of designing custom software to assis in managing the list - with each scan taking in the end over 30 minutes to complete.    
+Sorting the list took over 2 days with failed attempts on over 3 machines before attempting Kali Linux with success - extracting duplicate entries took over 12 hours of designing custom software to assist in managing the list - with each scan taking in the end over 30 minutes to complete.    
 
 Recapitalisation took over 45 minutes of verifying passwords for capital letters alone on each run - taking 13 hours in total development and sorting to collect the over 95% reduction list.      
  
