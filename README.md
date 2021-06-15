@@ -33,13 +33,13 @@ This file contains all passwords from "0" up until "a" was encountered in the en
 This Folder contains each alphabetical letter that was encountered after "a" was encountered in the entire sorted and unique list.   
  
 #### new_rules    
-This project was a test to see how effective a password list would be at attacking an account with today's minimum password requirements or    
+This project was a test to see how effective a password list would be at attacking an account with today's minimum password requirements of,   
 - 6 or More Characters
 - Capital Letters
 - Symbols   
 - Lowercase Letters     
      
- With an amazing reduction of over 95% compared to the original list, it is easy to see how most password lists are not designed for specific use case scenarios, some include 4 digit passwords for PIN numbers, other have Extended Symbol only passwords; all seem yo be combined into massive lists of "Unique" but fairly useless passwords.
+ With an amazing reduction of over 95% compared to the original list, it is easy to see how most password lists are not designed for specific use case scenarios, some include 4 digit passwords for PIN numbers, others have Extended symbol "only" passwords; all seem to be combined into massive lists of "Unique" but fairly useless passwords.
      
   
 ### Accessing The List    
